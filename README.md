@@ -1,1 +1,1 @@
-# hyper_casula_splashfighter
+# hyper_casual_splashfighter
